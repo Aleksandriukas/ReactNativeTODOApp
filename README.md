@@ -1,9 +1,5 @@
 # ReactNative-TODOApp
 
-# ReactNative-TODOApp
-
-# ReactNative-TODOApp
-
 This is an app created for education.
 
 Functionality:
